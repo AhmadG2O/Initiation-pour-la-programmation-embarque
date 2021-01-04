@@ -5,7 +5,7 @@ class ToutesQuestions {
 
   int _numeroQuestion = 0;
   List<Question> _questionList = [
-    Question(t: "J'aime Mel", r: true),
+    Question(t: "J'apprécie les ITS2", r: true),
     Question(t: "Je suis riche", r: true),
     Question(t: "Je suis le meilleur des copains", r: true),
     Question(t: "Je suis un bébé", r: false),
